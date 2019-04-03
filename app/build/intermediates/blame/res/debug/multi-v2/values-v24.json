@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jagad\\Desktop\\FoodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\jagad\\Documents\\GitHub\\FoodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jagad\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6183ff762b53090d08b038205e1952a2\\res\\values-v24\\values-v24.xml",

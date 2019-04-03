@@ -27,7 +27,7 @@ import org.tensorflow.lite.Interpreter;
 public class ImageClassifier {
 
   /** Tag for the {@link Log}. */
-  private static final String TAG = "TfLiteCameraDemo";
+  private static final String TAG = "FoodApp";
 
   /** Name of the model file stored in Assets. */
   private static final String MODEL_PATH = "optimized_graph.lite";

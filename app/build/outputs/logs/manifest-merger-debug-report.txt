@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1a5450169d30910016263c877decec21\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4068b3eba0d394bbf7f9fb1929fb5739\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b7941b6bdd200055f814bc7f04361852\AndroidManifest.xml:2:1-11:12
@@ -39,39 +39,39 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jagad\.gradle\cache
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6eee0a0b20258734d22c1497b64864fd\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\adc960c77486a66c8f5cb313630e126a\AndroidManifest.xml:17:1-22:12
 MERGED from [org.tensorflow:tensorflow-lite:1.12.0] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.12.0.aar\e34db6974545f1864f8d2c3703de420a\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:4:5-34
-		INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:6:5-65
+ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:6:5-65
 	android:name
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:6:22-62
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:6:22-62
 uses-feature#android.hardware.camera
-ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:8:5-60
+ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:8:5-60
 	android:name
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:8:19-57
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:8:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:9:5-70
+ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:9:5-70
 	android:name
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:9:19-67
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:9:19-67
 application
-ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:11:5-23:19
+ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:11:5-23:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1a5450169d30910016263c877decec21\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1a5450169d30910016263c877decec21\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b7941b6bdd200055f814bc7f04361852\AndroidManifest.xml:9:5-20
@@ -85,33 +85,33 @@ MERGED from [org.tensorflow:tensorflow-lite:1.12.0] C:\Users\jagad\.gradle\cache
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e845326091b6de55261130097d67ae26\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:12:9-41
 	tools:ignore
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:14:9-60
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:14:9-60
 	android:icon
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:13:9-45
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:13:9-45
 	android:allowBackup
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:11:18-44
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:11:18-44
 activity#com.example.FoodApp.CameraActivity
-ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:16:9-22:20
+ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:label
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:17:19-51
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:17:19-51
 	android:name
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:16:19-68
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:16:19-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:18:13-21:29
+ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:18:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml:20:27-74
 uses-sdk
-INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1a5450169d30910016263c877decec21\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1a5450169d30910016263c877decec21\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4068b3eba0d394bbf7f9fb1929fb5739\AndroidManifest.xml:20:5-44
@@ -182,13 +182,13 @@ MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jagad\.gradle\caches\tran
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\adc960c77486a66c8f5cb313630e126a\AndroidManifest.xml:20:5-44
 MERGED from [org.tensorflow:tensorflow-lite:1.12.0] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.12.0.aar\e34db6974545f1864f8d2c3703de420a\AndroidManifest.xml:5:5-7:41
 MERGED from [org.tensorflow:tensorflow-lite:1.12.0] C:\Users\jagad\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.12.0.aar\e34db6974545f1864f8d2c3703de420a\AndroidManifest.xml:5:5-7:41
-INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jagad\Desktop\FoodApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jagad\Documents\GitHub\FoodApp\app\src\main\AndroidManifest.xml

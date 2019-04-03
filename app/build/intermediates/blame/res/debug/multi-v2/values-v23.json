@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jagad\\Desktop\\FoodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\jagad\\Documents\\GitHub\\FoodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jagad\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\11a446ef6b06141ba1d1796121fb9918\\res\\values-v23\\values-v23.xml",
